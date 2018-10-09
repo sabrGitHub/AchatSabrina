@@ -1,0 +1,11 @@
+insert into vetements values('ro_s','F','robe','vet_solde','images/img52.jpg','beige','s',50,'robe solde a 25%');
+insert into vetements values('ro_s2','F','robe','vet_solde','images/img53.jpg','blanc','s',45,'robe solde a 50%');
+insert into vetements values('ro_s3','F','robe','vet_solde','images/img54.jpg','bleue','m',38,'robe solde a 65%');
+insert into vetements values('ju_s','F','jupe','vet_solde','images/img55.jpg','gris','l',36,'jupe solde a 55%');
+insert into vetements values('ju_s2','F','jupe','vet_solde','images/img56.jpg','blanc','m',30,'jupe solde a 45%');
+insert into vetements values('ju_s3','F','jupe','vet_solde','images/img58.jpg','noir','m',28,'jupe solde a 75%');
+insert into vetements values('pan_s_F','F','pantalon','vet_solde','images/img59.jpg','bleue','l',20,'pantalon solde a 50%');
+insert into vetements values('che_s','H','chemise','vet_solde','images/img60.jpg','bleue','s',23,'chemise  solde a 75%');
+insert into vetements values('che_s2','H','chemise','vet_solde','images/img61.jpg','blanc','m',21,'chemise solde a 65%');
+insert into vetements values('cra_s','H','cravatte','vet_solde','images/img62.jpg','gris','xl',15,'cravatte solde a 66%');
+insert into vetements values('pan_s_H','H','robe','vet_solde','images/img63.jpg','beige','l',22,'pantalon solde a 45%');
