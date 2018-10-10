@@ -78,7 +78,6 @@ public class ServletAchat extends HttpServlet {
         
          
          String action=request.getParameter("action");
-        // String action2=request.getParameter("action2");
          if(!action.equals("PAYE")){
              if(action.equals("ADD")){
 
@@ -159,7 +158,6 @@ public class ServletAchat extends HttpServlet {
              ServletContext sc = getServletContext();
              RequestDispatcher disp = sc.getRequestDispatcher("/payement.jsp");
             disp.forward(request,response);
-                  //session.invalidate();
          }
                  
          
